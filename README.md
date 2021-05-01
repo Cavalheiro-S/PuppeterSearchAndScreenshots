@@ -1,2 +1,2 @@
 # puppeter-project-searchAndScreenshots
-Projeto em node.js , o intuito do projeto é consolidar os conhecimentos adquiridos em node.js ,
+Projeto em node.js , o intuito do projeto é consolidar os conhecimentos adquiridos em node.js,o programa recebe entradas de informação do usúario e tira screenshots de  "n" sites exibidos nas busca do google, a busca é feita com base no que o usúario informa e na quantidade de resultados("n") que ele quer, então o programa armazena os screenshots dentro da raiz do projeto na pasta "screenshots", EX: "puppeteer-project-search/screenshots/screenshot1.png".
